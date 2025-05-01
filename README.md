@@ -18,3 +18,7 @@ Pay: 498.75
 -Written in python 3
 -Created and tested using jupyter Notebook.
 -Part of the [python for everybody (PY4E)] (https://www.py4e.com/)course
+
+# files included:
+  gross_pay_calculator.ipynb
+jupyter Notebook that calculates gross pay using standard and overtime rules
